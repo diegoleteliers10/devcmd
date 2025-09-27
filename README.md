@@ -1,6 +1,6 @@
 DevCmd - Development Commands Manager
 
-A powerful Raycast extension for Windows developers that intelligently analyzes your project folders and provides relevant development commands. Execute commands in your preferred terminal (CMD, PowerShell, Windows Terminal, Warp) with just one click.
+A powerful Raycast extension for Windows developers that intelligently analyzes your project folders and provides relevant development commands. Execute commands in your preferred terminal (CMD, PowerShell, Windows Terminal) with just one click.
 
 ![DevCmd Extension](assets/extension-icon.png)
 
